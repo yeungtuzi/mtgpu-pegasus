@@ -1,0 +1,7 @@
+collection: Doom
+shortname: doom
+extensions: wad
+
+game: FreeDoom
+file: freedoom1.wad
+launch: chocolate-doom -iwad {file.path}

@@ -1,0 +1,7 @@
+collection: Nintendo Entertainment System
+shortname: nes
+extensions: nes
+
+game: Nova the Squirrel
+file: nova.nes
+launch: retroarch -f -L /usr/lib/aarch64-linux-gnu/libretro/nestopia_libretro.so {file.path}

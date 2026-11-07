@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Game Mode - 模拟器
+Name[en]=Game Mode - Emulators
+Comment=Switch to 1280x720@60 and open Pegasus frontend
+Comment[en]=Switch to 1280x720@60 and open Pegasus frontend
+Exec=/opt/pegasus/bin/game-mode-emulators.sh start
+Icon=applications-games
+Terminal=false
+Categories=Game;

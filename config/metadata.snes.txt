@@ -1,0 +1,7 @@
+collection: Super Nintendo
+shortname: snes
+extensions: sfc smc
+
+game: Super Boss Gaiden
+file: SuperBossGaiden.sfc
+launch: retroarch -f -L /usr/lib/aarch64-linux-gnu/libretro/snes9x_libretro.so {file.path}
