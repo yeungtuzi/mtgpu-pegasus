@@ -10,8 +10,8 @@
 |---|---|---|---|
 | NES | Nova the Squirrel（开源同人游戏） | RetroArch · Nestopia core | [查看](images/nes-retroarch-nestopia.png) |
 | SNES | Super Boss Gaiden（免费同人游戏） | RetroArch · Snes9x core | [查看](images/snes-retroarch-snes9x.png) |
-| Game Boy | cpu_instrs（开源测试 ROM） | RetroArch · Gambatte core | [查看](images/gb-retroarch-gambatte.png) |
-| GBA | ARMWrestler（开源测试 ROM） | RetroArch · mGBA core | [查看](images/gba-retroarch-mgba.png) |
+| Game Boy | Tobu Tobu Girl（开源同人游戏） | RetroArch · Gambatte core | [查看](images/gb-retroarch-gambatte.png) |
+| GBA | Anguna（免费同人游戏） | RetroArch · mGBA core | [查看](images/gba-retroarch-mgba.png) |
 | Doom | FreeDoom（开源 WAD） | Chocolate Doom | [查看](images/doom-chocolate-doom.png) |
 
 前端界面（1280×720@60，Grid 主题）：
@@ -94,8 +94,8 @@ ROM 目录（默认 `~/文档/pegasus-roms`）：
 pegasus-roms/
 ├── nes/  metadata.pegasus.txt  nova.nes
 ├── snes/ metadata.pegasus.txt  SuperBossGaiden.sfc
-├── gb/   metadata.pegasus.txt  cpu_instrs.gb
-├── gba/  metadata.pegasus.txt  armwrestler.gba
+├── gb/   metadata.pegasus.txt  tobu.gb
+├── gba/  metadata.pegasus.txt  anguna.gba
 └── doom/ metadata.pegasus.txt  freedoom1.wad
 ```
 
@@ -106,8 +106,8 @@ pegasus-roms/
 
 - [Nova the Squirrel](https://github.com/NovaSquirrel/NovaTheSquirrel)（NES，开源）
 - [Super Boss Gaiden](https://github.com/snesdev0815/SNES-SuperBossGaiden)（SNES，免费）
-- [gb-test-roms](https://github.com/retrio/gb-test-roms)（GB，开源测试 ROM）
-- [armwrestler-gba-fixed](https://github.com/destoer/armwrestler-gba-fixed)（GBA，开源测试 ROM）
+- [Tobu Tobu Girl](https://github.com/SimonLarsen/tobutobugirl)（GB，开源同人游戏）
+- [Anguna](https://www.tolberts.net/anguna/)（GBA，免费同人游戏）
 - [FreeDoom](https://github.com/freedoom/freedoom)（WAD，开源）
 
 ## 已知限制
